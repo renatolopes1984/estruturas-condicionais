@@ -16,6 +16,7 @@ public class PlanoOperadora {
 			System.out.println("5GB Youtube");
 		}*/
 		
+		//FORMA DE APLICAR switch case sem break.
 		switch (plano) {
 		case "T": {
 			System.out.println("5GB Youtube");
